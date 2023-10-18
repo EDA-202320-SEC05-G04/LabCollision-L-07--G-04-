@@ -244,7 +244,7 @@ def sortBooksByYear(control, year, rank, memflag=True):
 # Funciones para medir tiempos de ejecucion
 
 
-def getTime():
+def  getTime():
     """
     devuelve el instante tiempo de procesamiento en milisegundos
     """
